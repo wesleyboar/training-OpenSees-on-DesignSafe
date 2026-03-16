@@ -1,15 +1,6 @@
 # cancel_tapis_job()
 ***cancel_tapis_job(tapis_client, job_uuid)***
 
-** Cancel a Tapis Job with Robust Error Handling** 
-
-Here's an enhanced and more **robust version** of the *tapipy* job cancellation snippet, including:
-
-* Error handling,
-* Status confirmation,
-* Optional retry messaging for common user mistakes (e.g., invalid UUID, already finished jobs),
-* And a clean function you can reuse in your codebase or Jupyter workflows.
-
 ---
 
 ### Example Usage

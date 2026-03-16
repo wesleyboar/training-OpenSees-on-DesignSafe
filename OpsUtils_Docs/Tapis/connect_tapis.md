@@ -1,7 +1,3 @@
-Here’s an updated, drop-in doc page that matches your current function’s behavior (including the “blank password lets you re-enter the username” flow and returning `None` when login is cancelled). I kept your structure and added the key nuances.
-
----
-
 # connect\_tapis()
 
 ***connect\_tapis(token\_filePath="\~/.tapis\_tokens.json", base\_url="[https://designsafe.tapis.io](https://designsafe.tapis.io)", username="", password="", force\_connect=False)***
