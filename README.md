@@ -1,3 +1,8 @@
+> [!WARNING]
+> Subsumed into https://github.com/DesignSafe-CI/training-Computational-Workflows-on-DesignSafe/.
+
+---
+
 # OpenSees-on-DesignSafe Training
 by **Silvia Mazzoni**<br>
 Applications Specialist @ DesignSafe<br>
